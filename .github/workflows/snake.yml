@@ -5,7 +5,7 @@ on:
   schedule:
     - cron: "0 */12 * * *" 
   
-  # allows to manually run the job at any time
+  # allows to run the job at any time manually
   workflow_dispatch:
   
   # run on every push on the master branch
@@ -17,7 +17,7 @@ on:
 
 jobs:
   generate:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-22.04
     timeout-minutes: 10
     
     steps:

@@ -1,5 +1,5 @@
 ##              Hi, I'm Raihan. 👋
-[<img src='my.gif' alt='Raihan'>](https://github.com/dhnraihan/)
+[<img src='https://github.com/dhnraihan/dhnraihan/blob/main/my.gif' alt='Raihan'>](https://github.com/dhnraihan/)
 
 
 # 💫 About Me:

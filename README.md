@@ -32,6 +32,6 @@
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/buymeacoffee.com/dhn.raihan) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/Dhn_Raihan) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/dhnraihan) 
 
 ## My Contribution Graph
-![snake gif](https://github.com/dhnraihan/dhnraihan/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/dhnraihan/dhnraihan/blob/output/github-contribution-grid-snake-dark.svg)
   
 <!-- Dhn Raihan -->
